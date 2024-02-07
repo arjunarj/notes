@@ -49,7 +49,6 @@
 - [ ] *Reference object* - pointer in Java -> moves locations without programmers knowing (because C/CPP has pointers but java doesn't)
 # Sent by Mentors
 [Idea Keymaps](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
-
 [UUID vs ULID](https://medium.com/@sammaingi5/uuid-vs-ulid-how-ulid-improves-write-speeds-d16b23505458#:~:text=For%20example%2C%20ULIDs%20are%20more,work%20with%20in%20certain%20situations.)
 
 [How we built Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
@@ -75,7 +74,6 @@
 [Journey of a request to the backend](https://medium.com/@hnasr/the-journey-of-a-request-to-the-backend-c3de704de223)
 
 # Extras
-
 [Why Stack so fast](https://www.youtube.com/watch?v=N3o5yHYLviQ)
 
 [Exploring CoRoutines](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
